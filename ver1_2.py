@@ -1,3 +1,5 @@
+# pip install pandas
+
 import tkinter as tk
 from tkinter.constants import BOTTOM, E, EW, LEFT, N, RIGHT, S, SE, SW, W
 from matplotlib.figure import Figure
